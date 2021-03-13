@@ -1,0 +1,32 @@
+{
+  "name": "servidor_web",
+  "version": "1.0.0",
+  "description": "Servidor mediante callbacks",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.2.2",
+    "formidable-serverless": "^1.1.1",
+    "fs": "0.0.1-security",
+    "querystring": "^0.2.1",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HidroRaul/servidor_web.git"
+  },
+  "keywords": [
+    "servidor",
+    "nodejs"
+  ],
+  "author": "Raúl Sánchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HidroRaul/servidor_web/issues"
+  },
+  "homepage": "https://github.com/HidroRaul/servidor_web#readme"
+}
